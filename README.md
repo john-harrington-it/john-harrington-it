@@ -22,6 +22,12 @@ For more than ten years I was the go-to escalation engineer at a multi-site nati
 
 Each module ships with comment-based help, Pester tests that mock AD, Exchange, and Graph, and zero PSScriptAnalyzer findings.
 
+### Currently learning
+
+| Repo | Status |
+|---|---|
+| [AZ-104 Labs](https://github.com/john-harrington-it/az104-labs) | 🟨 **In progress: study repo.** Twelve hands-on Bicep labs I'm working through for the AZ-104 Azure Administrator exam: budgets, RBAC, Azure Policy, storage, networking, VMs, load balancing, monitoring, and backup. Each has a starter to finish, what-if-first deploy and cleanup scripts, and cost guardrails. |
+
 ### Links
 
 - 🌐 Portfolio: [john-harrington-it.github.io](https://john-harrington-it.github.io/)
